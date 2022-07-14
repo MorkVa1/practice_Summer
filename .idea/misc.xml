@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/UnitTests/pom.xml" />
         <option value="$PROJECT_DIR$/LambdaTask/pom.xml" />
+        <option value="$PROJECT_DIR$/Stream/pom.xml" />
       </list>
     </option>
   </component>
