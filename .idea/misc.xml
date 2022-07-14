@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/UnitTests/pom.xml" />
+        <option value="$PROJECT_DIR$/LambdaTask/pom.xml" />
       </list>
     </option>
   </component>
